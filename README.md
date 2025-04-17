@@ -2,9 +2,6 @@
 
 ## DATE: 17-04-2025
 
-## NAME: NAVEEN KUMAR.R
-
-## REGISTER NO : 212223230139
 
 ## AIM:
 
@@ -56,8 +53,8 @@
 ![Screenshot 2025-04-17 104433](https://github.com/user-attachments/assets/94020518-7224-4b5b-ad88-8894b9eb4861)
 
 
-### Name:
-### Register Number: 
+### Name:NAVEEN KUMAR.R
+### Register Number: 212223230139
 
 ## RESULT:
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
